@@ -16,8 +16,8 @@
 ✔️ Skills\
 ✔️ Projects\
 ✔️ Contact me
-📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+✔️ +91 76396 22887
+
 
 ## Tools Used 🛠️
 * [<b>GitHub</b>](https://github.com/) - To host my static website (HTML, CSS, JS).
