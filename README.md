@@ -5,7 +5,7 @@
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://harishkumarsivakumar.github.io/)
 [![Author](https://img.shields.io/badge/Author-Vinod%20Jangid-purple.svg)](https://www.instagram.com/harishkumar.__05/profilecard/?igsh=Y3J1aHc4dTV5M2l6)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-11%20Jan%202024-yellow.svg)](https://github.com/harishkumarsivakumar/harishkumarsivakumar.github.io.git)
-<a href="https://github.com/vinodjangid07/vinodjangid07.github.io/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
+
 
 :star: Star me on GitHub — it helps!
 
