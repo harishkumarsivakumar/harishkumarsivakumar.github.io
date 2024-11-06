@@ -15,7 +15,7 @@
 ✔️ About me \
 ✔️ Skills\
 ✔️ Projects\
-✔️ Contact me
+✔️ Contact me\
 ✔️ +91 76396 22887
 
 
