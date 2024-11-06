@@ -4,7 +4,7 @@
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/harishkumarsivakumar/harishkumarsivakumar.github.io.git)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://harishkumarsivakumar.github.io/)
 [![Author](https://img.shields.io/badge/Author-Harishkumar%20-purple.svg)](https://www.instagram.com/harishkumar.__05/profilecard/?igsh=Y3J1aHc4dTV5M2l6)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-11%20Jan%202024-yellow.svg)](https://github.com/harishkumarsivakumar/harishkumarsivakumar.github.io.git)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-05%20Nov%202024-yellow.svg)](https://github.com/harishkumarsivakumar/harishkumarsivakumar.github.io.git)
 
 
 :star: Star me on GitHub — it helps!
