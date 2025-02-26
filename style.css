@@ -93,8 +93,8 @@ html {
     --color-light-mode: #ece7e1;
     --color-ddd-color: #ddd;
     --color-gray: #c4c4c4;
-    --color-purple: #8000ff;
-    --color-light-purple: #cf59e6;
+    --color-purple: #089949;
+    --color-light-purple: #089949;
     --color-light-blue: #6bc5f8;
     --color-navbarBorder-dark: #e2e2e207;
     --color-shadowDark: rgba(0, 0, 0, 0.137);
@@ -102,7 +102,7 @@ html {
     --static-heading-gradient-pink: #ffcfdf;
     --tech-stack-box-first-color: #1a1a29;
     --tech-stack-box-second-color: rgba(27, 27, 40, 0);
-    --tech-stack-box-border-color: #292929
+    --tech-stack-box-border-color: #1a1a29;
 }
 
 #hello-friend,
